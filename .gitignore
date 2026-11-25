@@ -29,3 +29,6 @@ functions/api/.education-baseline.ts
 
 # V2 deploy working folder
 .v2-deploy/
+
+# Arc Studio local pull state
+.arc-studio/
